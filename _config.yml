@@ -1,0 +1,23 @@
+name: geniusmedia
+favicon: null
+layout_spectrum: 0.1020566828083247
+typography_spectrum: 0.6306855892762542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9456551959738135
+  lightness: 0.7673475716728717
+  saturation: 0.937903753714636
+  rhythmicContrast: 0.6750278491526842
+purpose: []
