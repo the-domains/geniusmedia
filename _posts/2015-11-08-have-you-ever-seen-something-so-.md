@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Something this crazy shouldn't be legal !"
-datePublished: '2015-11-08T13:27:42.513Z'
-dateModified: '2015-11-08T13:24:07.357Z'
+datePublished: '2016-01-07T20:08:53.512Z'
+dateModified: '2015-11-10T01:24:54.737Z'
 title: Have you ever seen something so .......
+sourcePath: _posts/2015-11-08-have-you-ever-seen-something-so-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-08-have-you-ever-seen-something-so-.md
-published: true
+author: []
 url: have-you-ever-seen-something-so-/index.html
 _type: Article
 
